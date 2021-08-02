@@ -1,0 +1,86 @@
+
+
+h1 {font-family: 'Courier New', Courier, monospace;
+    font-size: 5vw;
+    text-align: center;
+    color: brown;
+}
+
+
+.shadowbox {
+    width: auto;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+  }
+
+  .header {
+      background-color: burlywood;
+      box-shadow: darkgoldenrod;
+      padding: 10px 10px;
+      position: sticky;
+      top: 0;
+      width: auto;
+      border-radius: 10px;
+  }
+  .verbtense {
+    background-color: rgb(138, 138, 138);
+    border-radius: 10px;
+    padding: 10px;
+   box-shadow: 5px 5px 5px rgb(0, 0, 0);
+      width: auto;
+      font-family: 'Courier New', Courier, monospace;
+  }
+
+  .sectiontitle {
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 500%;
+  }
+
+
+  .sectionphrase{
+          font-family: 'Courier New', Courier, monospace
+
+  }
+  
+  .errorbox {
+        background-color: rgb(197, 165, 165);
+     border-radius: 10px;
+     padding: 10px;
+    box-shadow: 5px 5px 5px rgb(0, 0, 0);
+       width: auto;    
+  }
+
+  .headerimg {
+      float: left;
+  }
+
+  .headerlinks {
+      float: right;
+  }
+
+  .headertitle {
+        float: left;
+  }
+
+  .lessongrammar {
+      background-color: rgb(113, 128, 89);
+      border-radius: 10px;
+      padding: 10px;
+      box-shadow: 5px 5px 5px dimgray;
+      width: auto;
+  }
+
+  .video {
+      width: 100%;
+  }
+  [type="text"] {
+      background-color: rgb(165, 165, 170);
+    padding: 10px;
+  }
+
+  #heading {
+      color: blue;
+  }
